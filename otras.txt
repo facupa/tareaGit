@@ -1,0 +1,142 @@
+Examen del curso colaboración en proyectos con git y GitHub
+Total de puntos
+56/100
+La puntuación final está pendiente
+Responde las siguientes preguntas según lo comprendido en el curso.
+Correo electrónico
+*
+facundopenia@gmail.com
+¿Cuál es tu nombre?
+*
+Peña Facundo
+1. ¿El comando git add, lo ejecutamos antes o después de hacer el commit?.
+*
+4/4
+Antes
+Antes
+Después
+Después
+No se usa ese comando
+No se usa ese comando
+2. ¿Con cual comando podemos ver las etiquetas (tags) de un repositorio?.
+*
+4/4
+git tag show
+git tag show
+git tag
+git tag
+git tag see
+git tag see
+git tag look
+git tag look
+3. ¿Qué función tiene el mensaje que incluimos en cada commit?
+*
+4/4
+Proporciona información del commit,
+Proporciona información del commit,
+Describe los cambios que registra el commit,
+Describe los cambios que registra el commit,
+Explica las mejoras o soluciones que se han implementado,
+Explica las mejoras o soluciones que se han implementado,
+Todas son correctas.
+Todas son correctas.
+4. Si quiero actualizar la rama en la que estoy trabajando con la rama principal, ¿qué comando debo utilizar?
+*
+4/4
+git merge
+git merge
+git rebase
+git rebase
+cualquiera
+cualquiera
+ninguno
+ninguno
+5. Si quiero incluir en la rama principal lo que estuve desarrollando en otra rama, ¿qué comando debo utilizar?
+*
+4/4
+git rebase
+git rebase
+git merge
+git merge
+cualquiera
+cualquiera
+niguno
+niguno
+6. Si quiero reportar errores, sugerir cambios o características, ¿Qué función de GitHub debo utilizar?
+*
+4/4
+El foro de debates (discussions?
+El foro de debates (discussions?
+Las incidencias (issues)
+Las incidencias (issues)
+La documentación del proyecto (wiki)
+La documentación del proyecto (wiki)
+las solicitudes de extracción (pull request)
+las solicitudes de extracción (pull request)
+7. ¿Que función debemos activar en GitHub para utilizar un repositorio como página web?
+*
+4/4
+GitHub projects
+GitHub projects
+GitHub webs
+GitHub webs
+GitHub wiki
+GitHub wiki
+GitHub pages
+GitHub pages
+8. Marca todos los pasos que debo seguir para aportar con mi trabajo a un proyecto al que  no me han agregado como colaborador.
+*
+0/4
+Crear una nueva rama
+Crear una nueva rama
+bifurcar el repositorio del proyecto
+bifurcar el repositorio del proyecto
+Clonar el repositorio bifurcado.
+Clonar el repositorio bifurcado.
+Darle seguimiento a la pull request hasta que sea combinada o rechazada.
+Darle seguimiento a la pull request hasta que sea combinada o rechazada.
+subir los cambios a GitHub
+subir los cambios a GitHub
+Enviar una pull request
+Enviar una pull request
+Realizar mis aportes
+Realizar mis aportes
+Combinar la rama en la que trabajé con la rama principal
+Combinar la rama en la que trabajé con la rama principal
+iniciar una pull request
+iniciar una pull request
+Crear una incidencia solicitando que me agreguen
+Crear una incidencia solicitando que me agreguen
+Hacer los commits correspondientes
+Hacer los commits correspondientes
+Explicar las modificaciones que hice y por qué.
+Explicar las modificaciones que hice y por qué.
+Cambiarme a la nueva rama.
+Cambiarme a la nueva rama.
+escribir por correo a los responsables del proyecto
+escribir por correo a los responsables del proyecto
+clonar el repositorio del proyecto
+clonar el repositorio del proyecto
+Respuesta correcta
+bifurcar el repositorio del proyecto
+bifurcar el repositorio del proyecto
+Clonar el repositorio bifurcado.
+Clonar el repositorio bifurcado.
+Crear una nueva rama
+Crear una nueva rama
+Realizar mis aportes
+Realizar mis aportes
+Cambiarme a la nueva rama.
+Cambiarme a la nueva rama.
+Hacer los commits correspondientes
+Hacer los commits correspondientes
+subir los cambios a GitHub
+subir los cambios a GitHub
+Enviar una pull request
+Enviar una pull request
+iniciar una pull request
+iniciar una pull request
+Explicar las modificaciones que hice y por qué.
+Explicar las modificaciones que hice y por qué.
+Darle seguimiento a la pull request hasta que sea combinada o rechazada.
+Darle seguimiento a la pull request hasta que sea combinada o rechazada.
